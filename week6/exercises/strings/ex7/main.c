@@ -7,7 +7,7 @@
 
 int main() {
   char str[MAX], letter;
-  int isPalindromo = 0, pos;
+  int pos;
   srand((unsigned)time(NULL));
 
   printf("Digite uma palavra: ");
